@@ -1,0 +1,30 @@
+ENV(1)			User Commands			ENV(1)
+
+NAME
+
+	env - display the shell environment
+
+SYNOPSIS
+
+	env
+
+DESCRIPTION
+
+	Allows display the shell environment in the stantard input
+
+RETURN VALUE
+
+       Print environment if this one exist
+
+AUTHOR
+
+	Written by Ca compile ... Ou pas !
+
+COPYRIGHT
+
+	Copyright (c) 2014 Ca compile ... Ou pas !, Inc.
+	This is free siftware. You may redistribute copies of
+	it under the terms of the GNU General Public Licence 
+	<http://www.gnu.org/licenses.gpl.html>
+
+ENV(1)			User Commands			ENV(1)

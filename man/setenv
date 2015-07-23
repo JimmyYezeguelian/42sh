@@ -1,0 +1,30 @@
+SETENV(1)			User Commands			SETENV(1)
+
+NAME
+
+	setenv - add a value
+
+SYNOPSIS
+
+	setenv [NAME]... [VALUE]...
+
+DESCRIPTION
+
+	Allows to add a value in the shell environment
+
+RETURN VALUE
+
+       Add a value to the environment or changes the value
+
+AUTHOR
+
+	Written by Ca compile ... Ou pas !
+
+COPYRIGHT
+
+	Copyright (c) 2014 Ca compile ... Ou pas !, Inc.
+	This is free siftware. You may redistribute copies of
+	it under the terms of the GNU General Public Licence 
+	<http://www.gnu.org/licenses.gpl.html>
+
+UNSETENV(1)			User Commands			UNSETENV(1)

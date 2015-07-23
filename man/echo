@@ -1,0 +1,56 @@
+ECHO(1)			User Commands			ECHO(1)
+
+NAME
+
+	echo - display a line of text
+
+SYNOPSIS
+
+	echo [OPTION]... [STRING]...
+
+DESCRIPTION
+
+	Echo the STRING(s) to standard output.
+
+	-n	do not output the trailing newline
+
+	-s	do not separate arguments with spaces
+
+	-e	enable interpretation of backslash escapes
+
+	-E	disable interpretation of backslash escapes (default)
+
+	-h	display this help
+
+	If -e is in effect, the following sequances are recognized:
+
+	\\	blackslash
+
+	\a	alert (BEL)
+
+	\b	backspace
+
+	\c	suppress trailing newline
+
+	\f	form feed
+
+	\n	new line
+
+	\r	carriage return
+
+	\t	horizontal tab
+
+	\v	vertical tab
+
+AUTHOR
+
+	Written by Ca compile ... Ou pas !
+
+COPYRIGHT
+
+	Copyright (c) 2014 Ca compile ... Ou pas !, Inc.
+	This is free siftware. You may redistribute copies of
+	it under the terms of the GNU General Public Licence 
+	<http://www.gnu.org/licenses.gpl.html>
+
+ECHO(1)			User Commands			ECHO(1)

@@ -1,0 +1,26 @@
+UNSETENV(1)			User Commands			UNSETENV(1)
+
+NAME
+
+	unsetenv - delete a value
+
+SYNOPSIS
+
+	unsetenv [NAME]...
+
+DESCRIPTION
+
+	Allows to delete a value in the shell environment
+
+AUTHOR
+
+	Written by Ca compile ... Ou pas !
+
+COPYRIGHT
+
+	Copyright (c) 2014 Ca compile ... Ou pas !, Inc.
+	This is free siftware. You may redistribute copies of
+	it under the terms of the GNU General Public Licence 
+	<http://www.gnu.org/licenses.gpl.html>
+
+UNSETENV(1)			User Commands			UNSETENV(1)
